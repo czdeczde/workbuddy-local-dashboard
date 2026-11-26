@@ -1,0 +1,49 @@
+{
+  "collected": "",
+  "wb": {
+    "sessionsToday": 0,
+    "ctxUsed": 0,
+    "ctxSize": 300000,
+    "creditTotal": 0,
+    "creditRecords": 0,
+    "tokenTotal": 0,
+    "sessionRecords": 0,
+    "statusCounts": {
+      "completed": 0,
+      "failed": 0,
+      "terminated": 0,
+      "archived": 0,
+      "working": 0
+    },
+    "totalSessions": 0,
+    "state": "等待首次刷新",
+    "model": "",
+    "creditBalance": null
+  },
+  "recent": [],
+  "weather": {
+    "city": "广州 · 越秀区",
+    "temp": 0,
+    "desc": "—",
+    "aqi": 0,
+    "humidity": "—",
+    "wind": "—",
+    "upd": "",
+    "aqiNote": "",
+    "hi": 0,
+    "lo": 0,
+    "forecast": [],
+    "hourly24": [],
+    "alert": "",
+    "source": "Open-Meteo",
+    "collected": ""
+  },
+  "indices": [],
+  "weibo": [],
+  "toutiao": [],
+  "life": {
+    "birth": "1990-01-01",
+    "total": 29200
+  },
+  "artifacts": []
+}
