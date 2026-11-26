@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 凭证与本地配置（绝不入库）
+.env
+config.json
+.getnote-daily/
+
+# 运行产物
+*.log
+*.part
+.download_state.json
+_failed.json
+audio/
